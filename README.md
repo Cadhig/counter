@@ -6,5 +6,5 @@ A simple counter, with an increment, decrement, and reset button, any changes sa
 
 ----------------------
 
-check it out here:![link](https://cadhig.github.io/counter/)
+check it out <a href:"https://cadhig.github.io/counter/">here</a>
 
